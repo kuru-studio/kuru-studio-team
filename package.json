@@ -1,0 +1,8 @@
+{
+  "name": "kuru-studio-team",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kuru-studio/kuru-studio-team.git",
+  "author": "BosEriko <bos.eriko@gmail.com>",
+  "license": "MIT"
+}
